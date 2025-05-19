@@ -1,3 +1,13 @@
 body {
+  background-color: #8EA4D2
+}
+h2 {
+  color: white;
+  font-family: "Monaco", monospace;
+  text-decoration: overline underline 3px #49516F;
+}
 
+img {
+  width: 30%;
+  height: auto;
 }
