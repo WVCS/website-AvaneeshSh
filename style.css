@@ -11,3 +11,11 @@ img {
   width: 30%;
   height: auto;
 }
+img:hover {
+  width: 40%;
+}
+
+h2:hover {
+  color: black;
+  font-size: 200%;
+}
