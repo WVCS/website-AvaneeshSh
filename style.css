@@ -19,3 +19,29 @@ h2:hover {
   color: black;
   font-size: 200%;
 }
+
+nav {
+  list-style-type: none;
+  background-color: #333;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+li {
+  display: inline
+}
+
+li a {
+  text-decoration: none;
+  color: green;
+  display: block;
+  float: left;
+  padding: 15px 50px
+}
+
+li a:hover {
+  background-color: lightgreen;
+  color: black
+}
